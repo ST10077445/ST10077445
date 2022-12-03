@@ -1,5 +1,12 @@
-- 👋 Hi, I’m @ST10077445
+- 👋 Hi, I’m Musa Nzawanga!
 - 👀 I’m interested in Web Developement!
+- 🔔 I'm currently using these technologies:
+-     ✅JavaScript Js
+-     ✅ReactJs
+-     ✅Spring Boot 
+-     ✅Java
+-     ✅PostgreSQL
+-     
 - 🌱 I’m currently learning Spring Security!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
